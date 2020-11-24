@@ -1,0 +1,7 @@
+search_engine,departure_airport,return_airport,departure_date,arrival_date,flight_out,flight_in,price
+Site1,YYZ,YVR,1/12/2021,1/19/2021,AC185,AC118,$571.43 
+Site2,YYZ,YVR,1/11/2021,1/19/2021,AC127,AC126,$335.02 
+Site2,YYZ,YVR,1/12/2021,1/19/2021,AC127,WS724,$481.50 
+Site1,YYZ,YVR,1/12/2021,1/19/2021,WS725,WS724,$484.23 
+Site2,YYZ,LAX,3/31/2021,4/14/2021,AC791,AC792,$328.33 
+Site1,YYZ,LAX,3/31/2021,4/14/2021,AC791,AC788,$328.33 
